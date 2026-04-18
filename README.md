@@ -66,8 +66,6 @@ Future Work
 [Suggest exploring other advanced models or ensemble strategies, e.g., 'Investigating deep learning architectures like LSTMs for time-series data if applicable.']
 [Suggest more extensive hyperparameter tuning or different cross-validation strategies, e.g., 'Implementing more robust cross-validation methods, such as nested cross-validation.']
 Author
-[Your Name/GitHub Username]
+[Tahera Singaporewala]
 
-License
-[e.g., 'This project is licensed under the MIT License - see the LICENSE.md file for details.'] ```# xai-heart-disease-prediction
-Explainable AI project using ML models and SHAP/LIME for heart disease prediction
+
